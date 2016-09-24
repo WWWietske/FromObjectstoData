@@ -13,7 +13,7 @@
 
 For both research questions there is no easy possibility to research all journals published. This would be a too big project for this course. This is why the first step is making a selection of historical journals written in English.
 
-For this selection it is possible to use an API of a publisher, for example Elsevier, to research their different journals. Another possibility is to use an online database of journals, for example JSTOR.
+For analysing this selection it is possible to use an API of a publisher, for example Elsevier, to research their different journals. Another possibility is to use an online database of journals, for example JSTOR.
 
 The Massachusetts Institute of Technology offers a good overview of API's, and other online tools, that can be used to research scholarly publications. This overview can be found here: http://libguides.mit.edu/apis
 
